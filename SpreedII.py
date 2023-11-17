@@ -1,5 +1,4 @@
 from flask import Flask, send_file, render_template
-from flask_cors import CORS
 from pystyle import *
 from threading import Thread
 
